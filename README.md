@@ -2,11 +2,11 @@
 Diese App ist der praktische Prototyp eines Konzeptes, welches ich für meine Facharbeit in der gymnasialen Oberstufe entwickelt habe. In dieser habe ich mich mit verschiedenen Gamification-Frameworks und bereits bestehenden Projekten im Zusammenhang mit der Covid-19-Pandemie auseinandergesetzt, um schließlich eine eigene App zu konzipieren. Diese soll den alltäglichen Umgang mit Empfehlungen zum Händewaschen, Abstandhalten, Kontakte-Reduzieren und Maske-Tragen durch ein virtuelles Belohnungssystem etwas erträglicher machen.
 
 <p align="middle">
-  <img src="https://user-images.githubusercontent.com/85450899/144703891-a244f841-7b24-40db-b49c-9219206dcb81.png" width="15%" />
-  <img src="https://user-images.githubusercontent.com/85450899/144703893-2fa4f655-fa0f-4c80-b405-418a8082f752.png" width="15%" /> 
-  <img src="https://user-images.githubusercontent.com/85450899/144703894-a6e469b9-a736-4c4e-aed6-52e4112cd989.png" width="15%" />
-  <img src="https://user-images.githubusercontent.com/85450899/144703895-3397553d-38b6-4433-84cf-d02c5158baac.png" width="15%" />
-  <img src="https://user-images.githubusercontent.com/85450899/144703896-d3d24c36-0acd-454f-9d26-60154f46e976.png" width="15%" />
+  <img src="https://user-images.githubusercontent.com/85450899/144703891-a244f841-7b24-40db-b49c-9219206dcb81.png" width="19%" />
+  <img src="https://user-images.githubusercontent.com/85450899/144703893-2fa4f655-fa0f-4c80-b405-418a8082f752.png" width="19%" /> 
+  <img src="https://user-images.githubusercontent.com/85450899/144703894-a6e469b9-a736-4c4e-aed6-52e4112cd989.png" width="19%" />
+  <img src="https://user-images.githubusercontent.com/85450899/144703895-3397553d-38b6-4433-84cf-d02c5158baac.png" width="19%" />
+  <img src="https://user-images.githubusercontent.com/85450899/144703896-d3d24c36-0acd-454f-9d26-60154f46e976.png" width="19%" />
 </p>
 
 Alle der verwendeten Fotos haben entweder mein Vater oder ich selbst geschossen, und da keine Personen stark im Vordergrund oder als klares Hauptmotiv zu erkennen sind, sollte dies urheberrechtlich unbedenklich sein. Falls ich hier fehlinformiert bin bitte ich um eine entsprechende Rückmeldung.
